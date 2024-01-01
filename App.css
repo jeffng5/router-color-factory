@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+h1.red {
+  background-color : red;
+}
+
+h1.orange{
+  background-color: orange;
+
+}
+
+h1.yellow {
+  background-color: yellow;
+}
+
+h1.green {
+  background-color: green;
+}
+
+h1.blue {
+  background-color: blue;
+}
+
+h1.indigo {
+  background-color: indigo;
+}
+
+h1.purple {
+  background-color: purple;
+}
